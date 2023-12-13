@@ -8,6 +8,14 @@
 - Java
   
 ***
+
+**Hobbies and Interests**
+- 🔒 Cybersecurity
+- 💻 Programming
+- 🌞 Game Development
+
+
+***
 <!--
 ### Milestones and Achievements
 - 🏫 Took AP Computer Science in 2022-2023.
