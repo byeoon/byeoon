@@ -18,9 +18,7 @@
 ***
 <!--
 ### Milestones and Achievements
-- 🏫 Took AP Computer Science in 2022-2023.
-- 🏢 Contributed to a few Microsoft repositories.
-- 🏗 Ran my own business from 2021 - 2023.
+- 🏫 AP Computer Science
 ***
 -->
 
