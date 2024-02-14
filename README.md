@@ -3,24 +3,27 @@
 **I'm learning the following languages**
 - C#
 - Javascript
-- PHP
+- Typescript
 - HTML / CSS
 - Java
+- PHP
   
 ***
 
 **Hobbies and Interests**
 - 🔒 Cybersecurity
-- 💻 Programming
-- 🌞 Game Development
+- 💻 Software Development
+- 🛠 Modding
+- 🌐 Reverse Engineering
 
 
 ***
-<!--
+
 ### Milestones and Achievements
-- 🏫 AP Computer Science
+
+
 ***
--->
+
 
 <!--
 - 🔭 I’m currently working on ...
