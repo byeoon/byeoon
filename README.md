@@ -2,11 +2,11 @@
 
 **I'm learning the following languages**
 - C#
-- Javascript
-- Typescript
+- JavaScript / TypeScript
 - HTML / CSS
 - Java
 - PHP
+- C++
   
 ***
 
@@ -19,8 +19,8 @@
 
 ***
 
-### Milestones and Achievements
-
+**Milestones and Achievements**
+None yet
 
 ***
 
