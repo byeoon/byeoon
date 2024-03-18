@@ -2,17 +2,18 @@
 
 **I'm learning the following languages**
 - C#
-- JavaScript / TypeScript
+- JavaScript
+- TypeScript
 - HTML / CSS
 - Java
 - PHP
-- C++
   
 ***
 
 **Hobbies and Interests**
-- 🔒 Cybersecurity
 - 💻 Software Development
+- ⌨ Programming
+- 🔒 Cybersecurity
 - 🛠 Modding
 - 🌐 Reverse Engineering
 
