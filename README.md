@@ -6,7 +6,6 @@
 - TypeScript
 - HTML / CSS
 - Java
-- PHP
   
 ***
 
