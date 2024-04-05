@@ -1,28 +1,30 @@
 # 👋 I'm Byron
 
-**I'm learning the following languages**
+<h2> I use these languages: </h2>
+
 - C#
 - JavaScript
 - TypeScript
 - HTML / CSS
 - Java
+- PHP
   
-***
 
-**Hobbies and Interests**
+<h2> Hobbies & Interests </h2>
+
 - 💻 Software Development
 - ⌨ Programming
 - 🔒 Cybersecurity
 - 🛠 Modding
 - 🌐 Reverse Engineering
 
+<h2> Projects I've contributed to: </h2>
 
-***
+[Enmity](https://github.com/enmity-mod/enmity) (Rather small but still counts)
 
-**Milestones and Achievements**
+<h2> Milestones and Achievements </h2>
 None yet
 
-***
 
 
 <!--
