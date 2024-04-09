@@ -20,7 +20,7 @@
 
 <h2> Projects I've contributed to: </h2>
 
-[Enmity](https://github.com/enmity-mod/enmity) (Rather small but still counts)
+[Enmity](https://github.com/enmity-mod/enmity)
 
 [Vencord](https://github.com/vendicated/vencord)
 
