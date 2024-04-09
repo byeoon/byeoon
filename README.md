@@ -22,6 +22,8 @@
 
 [Enmity](https://github.com/enmity-mod/enmity) (Rather small but still counts)
 
+[Vencord](https://github.com/vendicated/vencord)
+
 <h2> Milestones and Achievements </h2>
 None yet
 
