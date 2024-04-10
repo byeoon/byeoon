@@ -11,14 +11,14 @@
 
 ## Languages & IDEs:
 
-[![My Languages](https://skillicons.dev/icons?i=cs,ts,js,java,html,css,php,blank,vscode,visualstudio,idea,unity)](https://skillicons.dev)
+[![Languages And IDEs](https://skillicons.dev/icons?i=cs,ts,js,java,html,css,php,blank,vscode,visualstudio,idea,unity)](https://skillicons.dev)
 
 ## Hobbies & Interests
 
 - 💻 Software Development
 - ⌨ Programming
 - 🔒 Cybersecurity
-- 🔄 Reverse 🛠️ Engineering
+- 🔄🛠️ Reverse Engineering
 
 ## Projects I've contributed to:
 
@@ -26,15 +26,10 @@
 
 [Vencord](https://github.com/vendicated/vencord)
 
-<h2> Milestones and Achievements </h2>
+## Milestones and Achievements
 None yet
 
 
-
 <!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🔭 Damn, you're taking my README, I'm flattered you like my design!
 -->
