@@ -26,6 +26,8 @@
 
 [Vencord](https://github.com/vendicated/vencord)
 
+[Opti](https://github.com/Opti-mod/Opti) (Founder & Lead Developer)
+
 ## Milestones and Achievements
 None yet
 
