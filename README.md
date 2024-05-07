@@ -18,15 +18,15 @@
 - 💻 Software Development
 - ⌨ Programming
 - 🔒 Cybersecurity
-- 🔄🛠️ Reverse Engineering
+- 🔄 Reverse Engineering
 
-## Projects I've contributed to:
+## My Contributions
 
-[Enmity](https://github.com/enmity-mod/enmity)
+**[Enmity](https://github.com/enmity-mod/enmity)**
 
-[Vencord](https://github.com/vendicated/vencord)
+**[Vencord](https://github.com/vendicated/vencord)**
 
-[Opti](https://github.com/Opti-mod/Opti) (Founder & Lead Developer)
+**[Opti](https://github.com/opti-mod/opti)** (Founder & Lead Developer)
 
 ## Milestones and Achievements
 None yet
