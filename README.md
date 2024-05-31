@@ -31,6 +31,15 @@
 ## Milestones and Achievements
 
 
+## Stats
+
+
+ Top Languages             |  GitHub Stats
+:-------------------------:|:-------------------------:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byeoon&layout=compact&theme=dark) |   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=byeoon&show_icons=false&theme=transparent)
+
+
+
 
 <!--
 - 🔭 Damn, you're taking my README, I'm flattered you like the design!
