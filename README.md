@@ -3,8 +3,8 @@
  #  👋 Hey, I'm byeoon 
  Hi, I don't know how to introduce myself.
  I like to develop programs and software that can impact people for the better. 
- I also like to create whatever my mind feels like creating, which can range from 
- being useless to being beneficial for even the smallest community niches.
+ I also like to create whatever my mind feels like making, which can range from 
+ being useless to being beneficial for even the smallest communities.
 
  Software development is my passion™
 </div>
@@ -22,16 +22,16 @@
 
 ## My Contributions
 
-**[Enmity](https://github.com/enmity-mod/enmity)**
+> **[Enmity](https://github.com/enmity-mod/enmity)**
 
-**[Vencord](https://github.com/vendicated/vencord)**
+> **[Vencord](https://github.com/vendicated/vencord)**
 
-**[Opti](https://github.com/opti-mod/opti)** (Founder & Lead Developer)
+> **[Opti](https://github.com/opti-mod/opti)**
 
 ## Milestones and Achievements
-None yet
+
 
 
 <!--
-- 🔭 Damn, you're taking my README, I'm flattered you like my design!
+- 🔭 Damn, you're taking my README, I'm flattered you like the design!
 -->
