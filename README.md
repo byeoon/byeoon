@@ -46,6 +46,11 @@
 -->
 
 ```math
-$$\ce{$\unicode[goombafont; z-index: -1; position: fixed; top: 0; left: 0; height: 1000%; object-fit: fill; width: 1000%; opacity: 0.8; background-size: cover; pointer-events: none; background: url('"></mjx-mtext></mjx-texatom> </mjx-math> </mjx-container> <script>alert('hi');</script> </math-renderer>"');]
+$$\ce{$\unicode[goombafont; z-index: -1; position: fixed; top: 0; left: 0; height: 1000%; object-fit: fill; width: 1000%; opacity: 0.8; background-size: cover; pointer-events: none; background: url('')</mjx-mtext></> </mjx-texatom> </mjx-math> </mjx-container> </math-renderer> <script>alert('hi');</script> ");]
+{x0000}$}$$
+```
+
+```math
+$$\ce{$\unicode[goombafont; color:blue; z-index: 3; position: fixed; pointer-events: none; top: 0; left: 0; height: 1000%; object-fit: fill; width: 1000%; opacity: 0.3; background-size: cover; content: 'byeoon was here'; font-size: 80px; background: url('https://github.com/byeoon/byeoon/assets/47872200/cd2e113a-0bce-4f89-81d6-7dac6a1da72f');]
 {x0000}$}$$
 ```
