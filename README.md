@@ -6,7 +6,7 @@
  I also like to create whatever my mind feels like making, which can range from 
  being useless to being beneficial for even the smallest communities. Software development is my passion™
 
- Do you like my custom profile theme? It's very **sillyyyy** 
+ My profile theme is very **sillyyyy** and GitHub should make it a feature.
 </div>
 
 ## Languages & IDEs:
