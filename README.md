@@ -39,12 +39,10 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byeoon&layout=compact&theme=dark) |   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=byeoon&show_icons=false&theme=transparent)
 
 
-
-
 <!--
 - 🔭 Damn, you're taking my README, I'm flattered you like the design!
 -->
 
 ```math
-\ce{$\unicode[monospace; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100%; object-fit: cover; width: 100%; opacity: 0.25; background-size: cover; background-image: url('https://github.com/byeoon/byeoon/assets/47872200/b763f486-7834-49b3-985b-0793ea0ca58a');]{x0000}$}
+\ce{$&#x5C;unicode[monospace; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100%; object-fit: cover; width: 100%; opacity: 0.4; background-size: cover; background-image: url('https://github.com/byeoon/byeoon/assets/47872200/b763f486-7834-49b3-985b-0793ea0ca58a');]{x0000}$}
 ```
