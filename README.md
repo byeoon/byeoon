@@ -30,7 +30,6 @@
 
 ## Milestones and Achievements
 
-![VRChat_2024-05-31_18-11-24 348_3840x2160]()
 
 ## Stats
 
