@@ -30,6 +30,7 @@
 
 ## Milestones and Achievements
 
+![VRChat_2024-05-31_18-11-24 348_3840x2160]()
 
 ## Stats
 
@@ -46,11 +47,5 @@
 -->
 
 ```math
-$$\ce{$\unicode[goombafont; z-index: -1; position: fixed; top: 0; left: 0; height: 1000%; object-fit: fill; width: 1000%; opacity: 0.8; background-size: cover; pointer-events: none; background: url('')</mjx-mtext></> </mjx-texatom> </mjx-math> </mjx-container> </math-renderer> <script>alert('hi');</script> ");]
-{x0000}$}$$
-```
-
-```math
-$$\ce{$\unicode[goombafont; color:blue; z-index: 3; position: fixed; pointer-events: none; top: 0; left: 0; height: 1000%; object-fit: fill; width: 1000%; opacity: 0.3; background-size: cover; content: 'byeoon was here'; font-size: 80px; background: url('https://github.com/byeoon/byeoon/assets/47872200/cd2e113a-0bce-4f89-81d6-7dac6a1da72f');]
-{x0000}$}$$
+\ce{$\unicode[monospace; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100%; object-fit: cover; width: 100%; opacity: 0.25; background-size: cover; background-image: url('https://github.com/byeoon/byeoon/assets/47872200/b763f486-7834-49b3-985b-0793ea0ca58a');]{x0000}$}
 ```
