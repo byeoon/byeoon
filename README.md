@@ -1,3 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1 plus MathML 2.0//EN"
+	"http://www.w3.org/TR/MathML2/dtd/xhtml-math11-f.dtd">
+
+ <html xmlns="http://www.w3.org/1999/xhtml">
 <div align="center">  
 	
  #  👋 Hey, I'm byeoon 
@@ -43,27 +48,17 @@
 - 🔭 Damn, you're taking my README, I'm flattered you like the design!
 -->
 
-```math
-\mmlToken{ms}[fontfamily="
-monospace;
-pointer-events:none;
-z-index: -11;
-position: fixed;
-top: 0;
-left: 0;
-height: 100%;
-object-fit: cover;
-background-size: cover;
-width: 100%;
-opacity: 0.5;
-background-image: url('https://github.com/byeoon/byeoon/assets/47872200/b763f486-7834-49b3-985b-0793ea0ca58a');
-"]{}
 
-\mmlToken{ms}[fontfamily="
+
+```math
+\require{html}
+
+\\style{
 font-family: goombafont;
+color: red;
 pointer-events: none;
 position: fixed;
 inset: 0;
 backdrop-filter: saturate(2) blur(15px) brightness(3.7) opacity(0.2);
-"]{}
+}{\}
 ```
