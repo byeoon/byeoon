@@ -49,10 +49,9 @@
 -->
 
 
+  <img src="https://fibr.social/assets/Fibr.png" width="1" height="1" alt="accessibility text" onload="alert('hi');">
 
 ```math
-\require{html}
-
 \\style{
 font-family: goombafont;
 color: red;
@@ -60,5 +59,5 @@ pointer-events: none;
 position: fixed;
 inset: 0;
 backdrop-filter: saturate(2) blur(15px) brightness(3.7) opacity(0.2);
-}{\}
+}{\Huge}
 ```
