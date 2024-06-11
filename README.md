@@ -9,9 +9,10 @@
  Hi, I don't know how to introduce myself.
  I like to develop programs and software that can impact people for the better. 
  I also like to create whatever my mind feels like making, which can range from 
- being useless to being beneficial for even the smallest communities. Software development is my passion™
+ being useless to being beneficial for even the smallest communities.
+ 
+ Software development is my passion™
 
- My profile theme is **sillyyyy** and GitHub should make it a feature.
 </div>
 
 ## Languages & IDEs:
@@ -32,6 +33,8 @@
 > **[Vencord](https://github.com/vendicated/vencord)**
 
 > **[Opti](https://github.com/opti-mod/opti)**
+
+> **[ghcss-ext](https://github.com/tiramisyuz/ghcss-ext)**
 
 ## Milestones and Achievements
 
