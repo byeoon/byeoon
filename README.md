@@ -44,7 +44,7 @@
 
  Top Languages             |  GitHub Stats
 :-------------------------:|:-------------------------:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byeoon&layout=compact&theme=dark) |   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=byeoon&show_icons=false&theme=transparent&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byeoon&layout=compact&theme=dark) |   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=byeoon&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=transparent)
 
 
 <!--
