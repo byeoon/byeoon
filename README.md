@@ -44,23 +44,18 @@
 
  Top Languages             |  GitHub Stats
 :-------------------------:|:-------------------------:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byeoon&layout=compact&theme=dark) |   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=byeoon&show_icons=false&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byeoon&layout=compact&theme=dark) |   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=byeoon&show_icons=false&theme=transparent&include_all_commits=true)
 
 
 <!--
 - 🔭 Damn, you're taking my README, I'm flattered you like the design!
 -->
 
-
-  <img src="https://fibr.social/assets/Fibr.png" width="1" height="1" alt="accessibility text" onload="alert('hi');">
-
 ```math
 \\style{
 font-family: goombafont;
 color: red;
 pointer-events: none;
-position: fixed;
-inset: 0;
 backdrop-filter: saturate(2) blur(15px) brightness(3.7) opacity(0.2);
 }{\Huge}
 ```
