@@ -49,8 +49,10 @@
 
 
 
-<!--
+<!-- Top Secret README signatures (sign here if you're cool)
+
 *([KrystalSkullOfficial](https://github.com/KrstlSkll69) waz here)*
+
 -->
 
 
