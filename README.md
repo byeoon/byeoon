@@ -47,17 +47,10 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byeoon&layout=compact&theme=dark) |   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=byeoon&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=transparent)
 
 
+
+
 <!--
-- 🔭 Damn, you're taking my README, I'm flattered you like the design!
+*([KrystalSkullOfficial](https://github.com/KrstlSkll69) waz here)*
 -->
 
-```math
-\\style{
-font-family: goombafont;
-color: red;
-pointer-events: none;
-backdrop-filter: saturate(2) blur(15px) brightness(3.7) opacity(0.2);
-}{\Huge}
-```
 
-*([KrystalSkullOfficial](https://github.com/KrstlSkll69) waz here)*
