@@ -8,8 +8,7 @@
  #  👋 Hey, I'm byeoon 
  Hi, I don't know how to introduce myself.
  I like to develop programs and software that can impact people for the better. 
- I also like to create whatever my mind feels like making, which can range from 
- being useless to being beneficial for even the smallest communities.
+ I also like to create whatever my mind feels like making as well.
  
  Software development is my passion™
 
