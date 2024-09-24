@@ -1,5 +1,8 @@
 * {
-  pointer-events: none;
+
+}
+
+body > div.page-profile > div.application-main {
 z-index: -11;
 position: fixed;
 top: 0;
