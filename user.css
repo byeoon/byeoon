@@ -1,11 +1,11 @@
 body > div.page-profile > div.application-main {
-height: 100%;
-object-fit: cover;
-background-size: cover;
-width: 100%;
-opacity: 0.5;
-background-image: url('https://github.com/byeoon/byeoon/assets/47872200/b763f486-7834-49b3-985b-0793ea0ca58a');
-backdrop-filter: saturate(2) blur(15px) brightness(3.7) opacity(0.2);
+    z-index: -11 !important;
+    height: 100%;
+    object-fit: cover;
+    background-size: cover;
+    width: 100%;
+    background-image: url('https://github.com/byeoon/byeoon/assets/47872200/b763f486-7834-49b3-985b-0793ea0ca58a');
+    backdrop-filter: saturate(2) blur(15px) brightness(3.7) opacity(0.4);
 }
 
 body > div.page-profile > div.application-main > main > div.container-xl > div > div.Layout-sidebar > div > div.js-profile-editable-replace > div.clearfix > div.position-relative {
