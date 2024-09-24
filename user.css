@@ -10,6 +10,10 @@ body > div.page-profile > div.application-main {
 
 body > div.page-profile > div.application-main > main > div.container-xl > div > div.Layout-sidebar > div > div.js-profile-editable-replace > div.clearfix > div.position-relative {
     z-index: 1 !important;
+
+}
+
+div.page-profile, div.application-main, div.Box-header {
     border: 1px solid #a5abff !important;
     box-shadow: 0 0 12px 5px #323247 !important;
 }
