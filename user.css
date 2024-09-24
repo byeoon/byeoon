@@ -13,7 +13,7 @@ body > div.page-profile > div.application-main > main > div.container-xl > div >
 
 }
 
-div.page-profile, div.application-main, div.Box-header {
+#user-profile-frame:has(div > div > a[data-hovercard-type="user"]), #js-contribution-activity, #user-activity-overview, #user-profile-frame > div > div.Box, .graph-before-activity-overview, .js-profile-timeline-year-list, .pinned-item-list-item > .Box, body > div.page-profile > div.application-main > main > div.container-xl > div > div.Layout-sidebar > div, #user-repositories-list > ul, #profile-lists-container > div.Box, #user-starred-repos > div > div.col-lg-9, #user-starred-repos > div > div, .package-grid > div, #package-results > div > div > div.text-center, div#memexes-results {
     border: 1px solid #a5abff !important;
     box-shadow: 0 0 12px 5px #323247 !important;
 }
