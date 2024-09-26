@@ -25,16 +25,6 @@
 - 🔒 Cybersecurity
 - 🔄 Reverse Engineering
 
-## My Contributions
-
-> **[Enmity](https://github.com/enmity-mod/enmity)**
-
-> **[Vencord](https://github.com/vendicated/vencord)**
-
-> **[Opti](https://github.com/opti-mod/opti)**
-
-> **[ghcss-ext](https://github.com/tiramisyuz/ghcss-ext)**
-
 ## Milestones and Achievements
 
 
