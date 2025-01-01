@@ -7,11 +7,7 @@
 	
  #  👋 Hey, I'm byeoon 
  Hi, I don't know how to introduce myself.
- I like to develop programs and software that can impact people for the better. 
- I also like to create whatever my mind feels like making as well.
- 
- Software development is my passion™
-
+ I'm a software developer and web developer who does stuff sometimes
 </div>
 
 ## Languages & IDEs:
@@ -34,14 +30,5 @@
  Top Languages             |  GitHub Stats
 :-------------------------:|:-------------------------:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byeoon&layout=compact&theme=dark) |   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=byeoon&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=transparent)
-
-
-
-
-<!-- Top Secret README signatures (sign here if you're cool)
-
-*([KrystalSkullOfficial](https://github.com/KrstlSkll69) waz here)*
-
--->
 
 
