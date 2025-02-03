@@ -5,24 +5,13 @@
  <html xmlns="http://www.w3.org/1999/xhtml">
 <div align="center">  
 	
- #  👋 Hey, I'm byeoon 
- Hi, I don't know how to introduce myself.
+ #  👋 Hi, I'm byeoon 
  I'm a software developer and web developer who does stuff sometimes
 </div>
 
 ## Languages & IDEs:
 
 [![Languages And IDEs](https://skillicons.dev/icons?i=cs,ts,js,java,html,css,php,blank,vscode,visualstudio,idea,unity)](https://skillicons.dev)
-
-## Hobbies & Interests
-
-- 💻 Software Development
-- ⌨ Programming
-- 🔒 Cybersecurity
-- 🔄 Reverse Engineering
-
-## Milestones and Achievements
-
 
 ## Stats
 
