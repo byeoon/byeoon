@@ -1,10 +1,7 @@
 body > div.page-profile > div.application-main {
     z-index: -11 !important;
-    height: 100%;
     object-fit: cover;
     background-size: cover;
-    width: 100%;
-    backdrop-filter: saturate(2) blur(15px) brightness(3.7) opacity(0.4);
 }
 
 body > div.page-profile > div.application-main > main > div.container-xl > div > div.Layout-sidebar > div > div.js-profile-editable-replace > div.clearfix > div.position-relative {
