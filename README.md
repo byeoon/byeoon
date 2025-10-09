@@ -6,7 +6,7 @@
 <div align="center">  
 	
  #  👋 Hi, I'm byeoon 
- I'm a software developer and web developer who does stuff sometimes
+ I'm a software developer and web developer who does stuff sometimes.
 </div>
 
 ## Languages & IDEs:
