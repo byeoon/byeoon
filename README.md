@@ -12,10 +12,3 @@
 ## Languages & IDEs:
 
 [![Languages And IDEs](https://skillicons.dev/icons?i=cs,ts,js,java,html,css,php,blank,vscode,visualstudio,idea,unity)](https://skillicons.dev)
-
-## Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byeoon&layout=compact&theme=dark) <br>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=byeoon&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=transparent)
-
-
