@@ -9,6 +9,6 @@
  I'm a software developer and web developer who does stuff sometimes.
 </div>
 
-## Languages & IDEs:
+## Languages:
 
-[![Languages And IDEs](https://skillicons.dev/icons?i=cs,ts,js,java,html,css,php,blank,vscode,visualstudio,idea,unity)](https://skillicons.dev)
+[![Languages And IDEs](https://skillicons.dev/icons?i=cs,ts,js,java,html,css,php)](https://skillicons.dev)
